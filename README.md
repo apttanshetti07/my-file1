@@ -1,2 +1,4 @@
 # my-file1
-add
+name abhishek kumar pattanshetti
+student sgu
+computer sacience
